@@ -36,7 +36,7 @@
     "glob": "^7.1.1",
     "google-closure-compiler-js": "^20161201.0.1",
     "gzip-size": "^3.0.0",
-    "rollup": "^0.41.4",
+    "rollup": "^0.68.2",
     "rollup-plugin-memory": "^2.0.0",
     "rollup-plugin-node-resolve": "^2.0.0",
     "source-map": "^0.5.6"
